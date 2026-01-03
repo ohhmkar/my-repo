@@ -1,0 +1,4 @@
+baseURL = 'https://omkar-tp/'
+languageCode = 'en-in'
+title = 'My New Hugo Site'
+theme = 'ananke' 
